@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Anton!
+## 👋 Hey, I'm Anton!
 
 🚀 Currently the CTO at LeapTheory, where we create innovative solutions for the Ad Tech and Fin Tech industries.
 
